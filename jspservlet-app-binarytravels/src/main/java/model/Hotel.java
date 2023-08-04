@@ -55,5 +55,4 @@ public class Hotel{
 		this.fromdate = fromdate;
 		this.todate = todate;
 	}
-	
 }
